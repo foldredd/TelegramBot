@@ -1,0 +1,77 @@
+[
+  {
+    "Pair": 1,
+    "Monday": "Information Security Technologies",
+    "Tuesday": "-",
+    "Wednesday": "Project Management Fundamentals (Lecture / Practice)",
+    "Thursday": "Computer Networks",
+    "Friday": "Numerical Methods",
+    "links": {
+      "Monday_link": "https://meet.google.com/kfe-uvns-iiv?authuser=2&hs=179",
+      "Wednesday_link": "Google Meet",
+      "Thursday_link": "Google Meet",
+      "Friday_link": "http://meet.google.com/gix-abmg-cty"
+    }
+  },
+  {
+    "Pair": 2,
+    "Monday": "Computer Networks",
+    "Tuesday": "Database Organization",
+    "Wednesday": "- / Information Security Technologies",
+    "Thursday": "Computer Networks",
+    "Friday": "Database Organization",
+    "links": {
+      "Monday_link": "https://meet.google.com/eai-ikcv-rzg",
+      "Tuesday_link": "https://meet.google.com/nak-xuqa-xmw",
+      "Wednesday_link": "https://meet.google.com/kfe-uvns-iiv",
+      "Thursday_link": "https://meet.google.com/iid-zgbo-cei",
+      "Friday_link": "https://meet.google.com/ffp-hgir-uro"
+    }
+  },
+  {
+    "Pair": 3,
+    "Monday": "-",
+    "Tuesday": "Numerical Methods",
+    "Wednesday": "Interdisciplinary Lecture",
+    "Thursday": "Knowledge and Information Management Methods and Technologies",
+    "links": {
+      "Tuesday_link": "https://meet.google.com/ozx-szne-twy",
+      "Wednesday_link": "Different for everyone",
+      "Thursday_link": "https://meet.google.com/cub-tnjk-ibo"
+    }
+  },
+  {
+    "Pair": 4,
+    "Monday": "-",
+    "Tuesday": "Knowledge and Information Management Methods and Technologies",
+    "Wednesday": "Computer Architecture",
+    "links": {
+      "Tuesday_link": "https://meet.google.com/cub-tnjk-ibo",
+      "Wednesday_link": "https://us02web.zoom.us/j/5335577926?pwd=VjVSOTFJb2o4QndLY296Y3Zwc1cwUT09"
+    }
+  },
+  {
+    "Pair": 5,
+    "Monday": "-",
+    "Tuesday": "-",
+    "Wednesday": "Computer Architecture",
+    "Thursday": "-",
+    "Friday": "-",
+    "links": { "Wednesday_link": "https://us02web.zoom.us/j/5335577926?pwd=VjVSOTFJb2o4QndLY296Y3Zwc1cwUT09" }
+  },
+  {
+    "Pair": 6,
+    "Monday": "-",
+    "Tuesday": "-",
+    "Wednesday": "-",
+    "Thursday": "-",
+    "Friday": "-",
+    "links": {
+      "Monday_link": "-",
+      "Tuesday_link": "-",
+      "Wednesday_link": "-",
+      "Thursday_link": "-",
+      "Friday_link": "-"
+    }
+  }
+]
