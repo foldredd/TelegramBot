@@ -16,3 +16,21 @@ D:\VS code\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\refint\TelegramBot.dll
 D:\VS code\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.pdb
 D:\VS code\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.genruntimeconfig.cache
 D:\VS code\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\ref\TelegramBot.dll
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\bin\Debug\net7.0\TelegramBot.exe
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\bin\Debug\net7.0\TelegramBot.deps.json
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\bin\Debug\net7.0\TelegramBot.runtimeconfig.json
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\bin\Debug\net7.0\TelegramBot.dll
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\bin\Debug\net7.0\TelegramBot.pdb
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\bin\Debug\net7.0\Telegram.Bot.dll
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.csproj.AssemblyReference.cache
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.AssemblyInfoInputs.cache
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.AssemblyInfo.cs
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.csproj.CopyComplete
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.dll
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\refint\TelegramBot.dll
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.pdb
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\TelegramBot.genruntimeconfig.cache
+D:\Visual_Studio\Works\TelegramBot\TelegramBot\obj\Debug\net7.0\ref\TelegramBot.dll
